@@ -1,0 +1,5 @@
+h1, h2 {
+  font-family: Lato;
+}
+ 5 changes: 5 additions & 0 deletions5  
+tsconfig.json
